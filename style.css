@@ -278,7 +278,7 @@ header {
 }
 
 .examples-card:hover {
-  box-shadow: 0 0 10px #888;
+  box-shadow: 0 0 10px #394550;
 }
 
 .examples-card:nth-child(3) {
